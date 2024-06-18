@@ -1,0 +1,6 @@
+.allure/
+.idea/
+*.class
+*.iml
+build/
+target/
